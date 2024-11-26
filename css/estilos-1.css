@@ -65,8 +65,7 @@ h3 {
 }
 
 hr {
-    border-top: 2px dotted var(--second-color);
-    
+    border-top: 2px dotted var(--second-color);  
 }
 
 p {
