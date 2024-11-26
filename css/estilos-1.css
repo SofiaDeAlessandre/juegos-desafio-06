@@ -70,11 +70,7 @@ p {
 }
 
 a {
-    color: var(--third-color);
     text-decoration: none;
-}
-
-button {
     background-color: var(--fourth-color);
     padding: 10px;
     border: 1px solid var(--fourth-color);
@@ -83,7 +79,7 @@ button {
     font-weight: bold;
 }
 
-button:hover {
+a:hover {
     background-color: var(--first-color);
     cursor: pointer;
 }
